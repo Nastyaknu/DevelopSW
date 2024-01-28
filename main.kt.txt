@@ -1,0 +1,5 @@
+def printHelloWorld():
+    print("Hello, World")
+
+for _ in range(10):
+    printHelloWorld()
